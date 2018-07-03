@@ -23,4 +23,9 @@
 
 
 ## V. 0.0.3
+- Parsing File "index.php" per il caricamento dei contenuti a seconda delle necessità
+- Aggiornato File "header.php" con titolo in relazione al menu tema
+- Aggiornato File "Footer.php"
+- Aggioranto File "Style.css" con indicazioni basilari relative al footer
+- Aggiunti commenti nel file "Style.css"
 - 
