@@ -20,3 +20,7 @@
 - Iniziato il parsing della sezione footer nel file "footer.php"
 - Corretti Bug nel parsing degli elementi
 - Rinominate le classi per una maggiore comprensione
+
+
+## V. 0.0.3
+- 
